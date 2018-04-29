@@ -10,7 +10,7 @@
 
 ### Getting Started
 
-* Download [QGIS] (https://qgis.org/en/site/) for your operating system. We will use it if we have time.
+* Download [QGIS](https://qgis.org/en/site/) for your operating system. We will use it if we have time.
 
 * If you are familiar with [GitHub](http://www.github.com), fork (if you wish) and clone [the repository](https://github.com/christyheaton/PyCon2018_GISTutorial). If not, download the repository and unzip to a working directory. Take note of where you put it!
 
