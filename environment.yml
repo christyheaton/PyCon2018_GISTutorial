@@ -12,3 +12,4 @@ dependencies:
 - folium 
 - seaborn  
 - jupyter
+- rasterio
