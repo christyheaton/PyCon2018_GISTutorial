@@ -33,7 +33,7 @@ conda env create environment.yml
 * Now you can activate the environment.
 
 ```bash
-source activate geopandasenv  # OSX and Linux
+source activate geopandasenv  # macOS and Linux
 activate geopandasenv  # Windows.
 ```
 
@@ -46,6 +46,6 @@ jupyter notebook
 * If you ever want to deactivate the geopandasenv environment, type in the following:
 
 ```bash
-source deactivate  # OSX and Linux
+source deactivate  # macOS and Linux
 deactivate  # Windows.
 ```
