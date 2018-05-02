@@ -7,9 +7,6 @@ dependencies:
 - geojson 
 - pysal 
 - pyepsg 
-- rasterstats 
-- requests
 - folium 
 - seaborn  
 - jupyter
-- rasterio
