@@ -22,7 +22,7 @@ Navigate to the directory containing environment.yml (included in the repo).
 cd [location where you saved the repo]/PyCon2018_GISTutorial
 ```
 
-* Create the Conda environent you will need to run the tutorial. Note: it is called `geopandasenv`. **This could take anywhere from 10-30 minutes to finish.**
+* Create the Conda environment you will need to run the tutorial. Note: it is called `geopandasenv`. **This could take anywhere from 10-30 minutes to finish.**
 
 ```bash
 conda env create environment.yml
@@ -35,7 +35,7 @@ source activate geopandasenv  # macOS and Linux
 activate geopandasenv  # Windows.
 ```
 
-* To open the Jupyter Notebooks included in this tutorial, in your Anaconda Prompt navigated to the Notebook directory, type in:
+* To open the Jupyter Notebooks included in this tutorial, in your Anaconda prompt navigated to the Notebook directory, type in:
 
 ```bash
 jupyter notebook
