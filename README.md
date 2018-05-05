@@ -41,7 +41,9 @@ activate geopandasenv  # Windows.
 jupyter notebook
 ```
 
-* If you ever want to deactivate the geopandasenv environment, type in the following:
+This will open a browser where you can click and open each Notebook.
+
+* If you ever want to deactivate the geopandasenv environment, type the following in your Anaconda prompt:
 
 ```bash
 source deactivate  # macOS and Linux
