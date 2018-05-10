@@ -1,6 +1,6 @@
 ## **Intro to Spatial Analysis and Maps with Python** for PyCon 2018
 
-* Slides coming soon...
+* [Slides](https://docs.google.com/presentation/d/1HrjxZNvd_BgJfI6rKjeDfWAe4tF8r_bDKuaEYC2mV_0/edit?usp=sharing)
 
 ### Data Sources
 
